@@ -9,7 +9,7 @@ The Pharmacy Management System project aims to provide effective management of a
 
 1. Clone this repository using:
    ```
-   git clone 
+   git clone https://github.com/craterr/Pharmacy-Management-System.git
    ```
 
 2. Install Eclipse J2EE or any other preferred IDE.
