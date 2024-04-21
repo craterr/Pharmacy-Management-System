@@ -58,4 +58,4 @@ The application aims to manage medicines and various functions of the pharmacy e
 
 ## Result and Discussion
 
-Using MySQL commands and its database, the Pharmacy Management System stores all data received from users, including drug sales details and profits made by the owners. The website allows users to generate invoices for sales, check drug expiry and remaining quantity, renew validity, and add more drugs into the store, updating the database accordingly. XAMPP server facilitates the initiation of database commands into the database, and ER diagrams with relational schema diagrams help in structuring the database efficiently.
+Using MySQL commands and its database, the Pharmacy Management System stores all data received from users, including drug sales details and profits made by the owners. The website allows users to generate invoices for sales, check drug expiry and remaining quantity, renew validity, and add more drugs into the store, updating the database accordingly. XAMPP server facilitates the initiation of database commands into the database.
